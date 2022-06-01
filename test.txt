@@ -1,8 +1,7 @@
 Main Branch
 
 branch_1
-<<<<<<< HEAD
-=======
+
 
 brnach_2
->>>>>>> branch_2
+
